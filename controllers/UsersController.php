@@ -4,7 +4,6 @@ namespace controllers;
 use core\Controller;
 use core\Core;
 use models\Users;
-use models\Order;
 
 class UsersController extends Controller
 {
